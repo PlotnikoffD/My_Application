@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "151137135485",
+    "firebase_url": "https://chat-20b3c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chat-20b3c",
+    "storage_bucket": "chat-20b3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151137135485:android:709d73e2c78c399242fa14",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgX3fg7GflMZV_dIviDIgadGYEDLyjeHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
